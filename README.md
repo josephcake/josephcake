@@ -1,31 +1,24 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <p>
-    <a href="https://jgao.dev" rel="nofollow">
+    <a href="https://jgao.dev" rel="nofollow" target="_blank">
       <img
         src="https://i.ibb.co/hDrSqmg/Screen-Shot-2021-05-13-at-12-28-17-PM.png"
-        alt="Joseph's Banner" style="min-width:100%;">
+        alt="Joseph's Banner" style="width:950px;">
     </a>
   </p>
-  <h1>
-    <svg class="octicon octicon-link"
-        viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-        <path fill-rule="evenodd"
-          d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-        </path>
-   </svg>
-  About
+  <h1>    
+    <a href="https://jgao.dev/" rel="nofollow" target="_blank">
+    Joseph Gao
+    </a>
   </h1>
   <p>
-    <a href="https://www.linkedin.com/in/jocake/" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/63db3986a72fe29cde1370dfc324bd94ba96a3c843d05ba16bfc4580caa07d69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d50726f66696c652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e6b6564696e26636f6c6f723d304437364138"
-        alt="LinkedIn Badge"
-        data-canonical-src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&amp;logo=linkedin&amp;color=0D76A8"
-        style="max-width:100%;"></a>
     <a href="https://jgao.dev" rel="nofollow">
       <img
 src="https://camo.githubusercontent.com/f379ba10b2fad0d80381533f888ed1dcf9b6ffeb509ca7f683339171efb6d144/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d70656177617272696f722e70656177617272696f72"
         alt="visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=josephcake.josephcake"
-        style="max-width:100%;"></a></p>
+        style="max-width:100%;"></a>
+    
+  </p>
   <p>Tofu, Kung, Fu, Cold, Food, Code, Food, Co, Foo, code-food
   </p>
   <h1>
@@ -100,9 +93,8 @@ src="https://camo.githubusercontent.com/f379ba10b2fad0d80381533f888ed1dcf9b6ffeb
     Say hi
   </h3>
   <p>
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://www.linkedin.com/in/jocake/" rel="nofollow" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
   </p>
-  
-
 </article>
