@@ -3,14 +3,16 @@
     <a href="https://jgao.dev" rel="nofollow" target="_blank">
       <img
         src="https://i.ibb.co/hDrSqmg/Screen-Shot-2021-05-13-at-12-28-17-PM.png"
-        alt="Joseph's Banner" style="width:950px;">
+        alt="Joseph's Banner"
+        min-width:"100%"
+      >
     </a>
   </p>
-  <h1>    
+  <h5>    
     <a href="https://jgao.dev/" rel="nofollow" target="_blank">
-    Joseph Gao
+      jgao.dev
     </a>
-  </h1>
+  </h5>
   <p>
     <a href="https://jgao.dev" rel="nofollow">
       <img
@@ -95,6 +97,9 @@ src="https://camo.githubusercontent.com/f379ba10b2fad0d80381533f888ed1dcf9b6ffeb
   <p>
     <a href="https://www.linkedin.com/in/jocake/" rel="nofollow" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://jgao.dev/" rel="nofollow" target="_blank" style="font-size:20px">
+      <img src="https://i.ibb.co/HFKRNZR/Screen-Shot-2021-05-13-at-12-59-15-PM.png" height="28px" image-rendering="pixelated"/>
     </a>
   </p>
 </article>
