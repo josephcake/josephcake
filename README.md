@@ -1,16 +1,9 @@
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@josephcake)
-![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=josephcake&theme=monokai-metallian&hide_border=true)
-
-
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-  
   <p>
     <a href="https://jgao.dev" rel="nofollow">
       <img
-        src="https://i.ibb.co/xzDsszx/Screen-Recording-2021-05-13-at-1.gif"
-        alt="Joseph's Banner" style="max-width:100%;">
+        src="https://i.ibb.co/hDrSqmg/Screen-Shot-2021-05-13-at-12-28-17-PM.png"
+        alt="Joseph's Banner" style="min-width:100%;">
     </a>
   </p>
   <h1>
